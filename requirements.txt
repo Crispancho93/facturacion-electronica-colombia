@@ -5,7 +5,7 @@ python-dotenv==1.0.1
 uvicorn==0.27.0.post1
 sqlalchemy==2.0.25
 pymysql==1.1.0
-requests==2.31.0
+requests==2.25.1
 lxml==4.8.0
 email-validator==2.2.0
-pyopenssl==24.2.1
+cryptography==3.4.8
